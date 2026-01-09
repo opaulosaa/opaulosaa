@@ -7,9 +7,8 @@ Sou um desenvolvedor focado em construir soluções escaláveis e eficientes par
 ---
 
 ### 🛠️ No que estou trabalhando:
-- 🔭 Atualmente trabalhando em [Nome do seu projeto principal ou empresa]
 - 🌱 Aprendendo **Cloud Computing** e **Kubernetes**
-- 🎯 Focado em aprimorar habilidades em **Go (Golang)** e **Ecossistema Spring**
+- 🎯 Focado em aprimorar habilidades em **Go** e **Ecossistema Spring**
 - 💬 Pergunte-me sobre: Java, SQL e por que Go é tão rápido!
 
 ---
